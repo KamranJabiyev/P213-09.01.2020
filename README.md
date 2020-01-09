@@ -7,4 +7,7 @@ Tapshiriq:
  a.Satishlar barede hesabat almaga View yaratmalisiniz.
  
  b.Istenilen işçinin ne qeder satış elediyini chixaran procedure yazmalisiniz
+ 
+ 
+2.Butun sql query-leri tekrarlamaq
 
